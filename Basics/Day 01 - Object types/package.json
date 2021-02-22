@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "boiler-plate for typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "dhruvsaxena1998",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
