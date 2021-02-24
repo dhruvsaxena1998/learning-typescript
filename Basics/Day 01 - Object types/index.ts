@@ -1,3 +1,4 @@
+// Enums
 enum Role {
     ADMIN,
     READONLY,
