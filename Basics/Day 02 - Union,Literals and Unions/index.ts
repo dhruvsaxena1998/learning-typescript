@@ -28,3 +28,9 @@ const combine = (
 
   return typecase === "as-number" ? +num : String(num);
 };
+
+
+// Unkown Type
+let user: unknown
+// can store any value like any
+// unknown is better thn any as it restrict the type 
